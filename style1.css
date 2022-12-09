@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{position: static;
+    width: 1280px;
+    height: 832px; background: linear-gradient(180deg, #36003F 0%, rgba(144, 10, 166, 0.964071) 22.5%, rgba(160, 13, 184, 0.92873) 44.63%, rgba(197, 0, 228, 0.8875) 70.45%, rgba(216, 0, 241, 0.449788) 88.28%, rgba(249, 20, 239, 0.147917) 100.57%, rgba(252, 46, 244, 0.0802085) 108.56%, rgba(255, 16, 245, 0.0281251) 114.71%, rgba(255, 255, 255, 0) 118.03%, rgba(229, 72, 255, 0.48) 118.03%);}
+.heading{position: relative;
+    width: 913px;
+    height: 153px;
+    left: 574px;
+    top: 29px;
+    font-family: 'Gill Sans MT Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 66px;
+    line-height: 116px;
+    text-decoration-line: underline;
+    color: #5DC209;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);}
+
+    .box{position: absolute;
+        width: 2727px;
+        height: 163px;
+        left: 0px;
+        top: -20px;
+        background: rgba(213, 0, 179, 0.51);}
+    .bg{position: absolute;
+        width: 603px;
+        height: 480px;
+        left: 564px;
+        top: 249px;
+        background: rgba(165, 29, 186, 0.41);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 40px;}
+    .text1{position: absolute;
+        width: 465px;
+        height: 77px;
+        left: 584px;
+        top: 284px;
+        font-family: 'Gill Sans MT';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 37px;
+        color: #FFFFFF;
+        }
+    .form{position: absolute;
+        left: 588px;
+        top: 344px;
+        width: 163px;
+        height: 35px;
+    
+    }
+    #button{position: absolute;
+        left: 721px;
+        top: 342px;
+        width: 73px;
+        height: 24px;}
+    .text{position: absolute;
+        left: 598px;
+        top: 291px;
+        width: 308px;
+        height: 27px;
+        font-size: 33px;
+        color: #FFFFFF;}
+    #result{position: absolute;
+        left: 661px;
+        top: 475px;
+        width: 524px;
+        height: 53px;
+        font-size: 59px;
+        color: #FFF500;}
+    #message{position: absolute;
+        left: 661px;
+        top: 475px;
+        width: 524px;
+        height: 53px;
+        font-size: 59px;
+        color: #ee0909;
+
+    }
+
+    
